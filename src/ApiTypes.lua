@@ -1,5 +1,3 @@
---!strict
-
 type Array<T> = { [number]: T }
 
 type ValueType = {

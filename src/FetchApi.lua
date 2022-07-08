@@ -1,5 +1,3 @@
---!strict
-
 local HttpService = game:GetService("HttpService")
 
 local GET_VERSION_URL = "https://setup.rbxcdn.com/versionQTStudio"
